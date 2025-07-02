@@ -19,7 +19,4 @@ Il mio portfolio personale - HTML statico
 🌍 Vivo ad Andria (BT), Italia  
 📫 Contatti:
 - Email: michele.lovaglio.dev@gmail.com
-- LinkedIn: [linkedin.com/in/michele-lovaglio](https://linkedin.com) *(da aggiornare quando l’hai pronto)*
 - Portfolio: [michele-lovaglio.github.io/portfolio](https://michele-lovaglio.github.io/portfolio)
-
-> "Code, learn, repeat." 🧠
